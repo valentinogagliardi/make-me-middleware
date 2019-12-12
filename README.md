@@ -1,2 +1,4 @@
 # make-me-middleware
-Django middleware demo
+> Django middleware demo
+
+**This is a demo, not suitable for production**.
